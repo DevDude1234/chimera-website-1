@@ -1,1 +1,2 @@
-# chimera-website-1
+# chimera-website
+enhancing the current chimera website
